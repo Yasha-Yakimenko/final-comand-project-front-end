@@ -7,7 +7,9 @@ export const App = () => {
     <>
       <RegisterContainer/>
       <Header />
-    </>
+      
+      </>
+    
 
   );
 };
